@@ -1,0 +1,9 @@
+{
+  "name": "@cityssm/council-agendas-2024",
+  "version": "1.0.0",
+  "description": "2024 City Council agendas archived on GitHub for easy access.",
+  "scripts": {
+    "build": "npx @cityssm/pdf-metadata-recorder"
+  },
+  "author": "The Corporation of the City of Sault Ste. Marie"
+}
